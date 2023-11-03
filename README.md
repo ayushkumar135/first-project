@@ -3,4 +3,7 @@ demo
 ## subheader
 lets go guys
 ## s
-po
+pogit
+
+## local development
+1.open index.html in browser
